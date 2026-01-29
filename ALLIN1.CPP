@@ -9,6 +9,7 @@
 #include"seqsrch.h"
 #include"sorttech.h"
 #include"array.h"
+//declaration of code
 void srch(void);
 
 void main()
